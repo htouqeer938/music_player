@@ -1,4 +1,13 @@
+import abc from "./data/fav.jpg"
+import xyz from "./data/fav.mp3"
 const dataMusic = [
+  {
+    "name": "Phir Bhi Tumko Chaahunga",
+    "author": "Arijit Singh",
+    "img": abc,
+    "audio": xyz,
+    "duration": "6:01"
+  },
   {
     "name": "Nice piano and ukulele",
     "author": "Royalty",
